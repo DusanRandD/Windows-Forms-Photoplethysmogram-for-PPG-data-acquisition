@@ -1,0 +1,2 @@
+# Windows-Forms-Photoplethysmogram-for-PPG-data-acquisition
+This application is intend to use for creating a database for machine learning projects. Subjects physical data and blood pressure, measured from external device are entered. Measurement system that is part of this solution provide PPG signals of observed person in real time from hardware. This hardware system is based on embedded device for sensing and Python source code for data processing. It is non invasive light reflective method with two wavelengths.
